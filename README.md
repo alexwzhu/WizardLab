@@ -32,4 +32,3 @@ you can open or close the silver_chest
 you can attempt to unlock the silver_chest
 </ul>
 
-### Good Luck!
